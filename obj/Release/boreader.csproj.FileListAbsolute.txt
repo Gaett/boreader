@@ -1,0 +1,9 @@
+C:\Users\Gaetan\source\repos\boreader\bin\Release\boreader.exe.config
+C:\Users\Gaetan\source\repos\boreader\bin\Release\boreader.exe
+C:\Users\Gaetan\source\repos\boreader\bin\Release\boreader.pdb
+C:\Users\Gaetan\source\repos\boreader\obj\Release\boreader.csprojAssemblyReference.cache
+C:\Users\Gaetan\source\repos\boreader\obj\Release\boreader.Form1.resources
+C:\Users\Gaetan\source\repos\boreader\obj\Release\boreader.Properties.Resources.resources
+C:\Users\Gaetan\source\repos\boreader\obj\Release\boreader.csproj.GenerateResource.cache
+C:\Users\Gaetan\source\repos\boreader\obj\Release\boreader.exe
+C:\Users\Gaetan\source\repos\boreader\obj\Release\boreader.pdb
